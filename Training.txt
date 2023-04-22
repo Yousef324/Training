@@ -1,5 +1,6 @@
 add the structure here
 
+<<<<<<< HEAD
 
 
 
@@ -24,4 +25,13 @@ void func_1
 
 
 
+=======
+int main(void)
+{
+int x;
+int y;
+
+
+	return 0;
+>>>>>>> Training/testing
 }
